@@ -16,8 +16,14 @@
   <setting name="Application_window-id"> 
     <setting name="window_x" value="0"/>  
     <setting name="window_y" value="23"/>  
-    <setting name="window_width" value="800"/>  
-    <setting name="window_height" value="726"/>  
+    <setting name="window_width" value="1256"/>  
+    <setting name="window_height" value="725"/>  
     <setting name="extended-state" value="0"/> 
+  </setting>  
+  <setting name="SinglePaneUIInstance_splitter-id"> 
+    <setting name="divider_location" value="395"/> 
+  </setting>  
+  <setting name="main_panel"> 
+    <setting name="current-tab" value="Task Tree"/> 
   </setting> 
 </root>
